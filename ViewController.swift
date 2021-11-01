@@ -31,5 +31,7 @@ class ViewController: UIViewController {
         // アニメーションを開始
         charaImage.startAnimating()
     }
+    
+    
 }
 
